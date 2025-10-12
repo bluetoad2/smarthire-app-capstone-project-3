@@ -1,0 +1,13 @@
+# Streamlit Secrets/User Data
+.streamlit/secrets.toml
+users.json
+
+# Local environment and data
+venv/
+data/
+CAPSTONE PROJECT 3 ARCHIVE/
+
+# Other common ignore patterns
+__pycache__/
+*.pyc
+.DS_Store
