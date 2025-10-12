@@ -1,6 +1,5 @@
 # Streamlit Secrets/User Data
 .streamlit/secrets.toml
-users.json
 
 # Local environment and data
 venv/
