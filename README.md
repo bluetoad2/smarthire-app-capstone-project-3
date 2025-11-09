@@ -76,7 +76,7 @@ tqdm
 ---
 
 ## Deployment (Streamlit Cloud)
-Demo Aplikasi SmartHire dapat diakses di link berikut : xxx
+Demo Aplikasi SmartHire dapat diakses di link berikut : https://smart-hire.streamlit.app/
 
 ---
 
